@@ -8,7 +8,7 @@
 
 
 
-## Mendelian traits and Complex Triats
+## Mendelian traits and Complex Traits
 
 
 
